@@ -1,4 +1,5 @@
-/**Enum for different types of the transactions
+/**
+ * Enum for different types of the transactions
  * as INCOME and EXPENSE
  * INCOME - represents the cash inflow
  * EXPENSE - represents the cash outflow
